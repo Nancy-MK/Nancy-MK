@@ -49,4 +49,8 @@ I'm actively building:
 
 ---
 
-> “Don’t wait for opportunity. Create it.”  
+> “Don’t wait for opportunity. Create it.”
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nancy-MK&theme=midnight-purple&show_icons=true)
